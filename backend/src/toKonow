@@ -1,0 +1,2 @@
+1. virtualenv venv
+2.pip install flask Flask-PyMongo flask-cors
